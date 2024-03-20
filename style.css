@@ -1,0 +1,43 @@
+body{
+    background:url("https://t3.ftcdn.net/jpg/04/26/73/24/360_F_426732440_fLE5d2sPNhlftdCyfWeIZULrLm3hxFES.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.main{
+    background:rgb(40, 7, 111);
+    width:900px;
+    height:500px;
+    margin-left:300px;
+    margin-top:50px;
+}
+#hd1{
+    margin-left:250px;
+}
+.box1{
+    padding-left:250px;
+    color:black;
+}
+#box2{
+    margin-left:1%;
+    margin-top:50px;
+    display:flex;
+    justify-content:space-evenly;
+   
+}
+#n{
+    margin-left:350px;
+    margin-top:50px;
+    width:200px;
+    height:20px;
+}
+#res{
+    color:rgb(255, 0, 0);
+margin-left: 320px;
+font-family: 'Courier New', Courier, monospace;
+}
+#tries{
+    color:rgb(255, 0, 0);
+    margin-left:350px;
+    font-family: 'Courier New', Courier, monospace;
+}
